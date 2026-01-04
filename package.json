@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.16.4",
-    "stripe": "^6.18.1"
+    "express": "^4.22.0",
+    "stripe": "^6.25.1"
   },
   "devDependencies": {
     "dotenv": "^6.2.0"
